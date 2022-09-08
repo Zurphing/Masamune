@@ -5,3 +5,15 @@ assets:
   method: copy
   source:
   - name: obj\W_EX010.mdlx
+- name: obj\W_EX010_NM.mdlx #Over Kingdom Key
+  method: copy
+  source:
+  - name: obj\W_EX010.mdlx
+- name: obj\W_EX010_TR.mdlx #Over Kingdom Key
+  method: copy
+  source:
+  - name: obj\W_EX010.mdlx
+- name: obj\W_EX010_WI.mdlx #Over Kingdom Key
+  method: copy
+  source:
+  - name: obj\W_EX010.mdlx
