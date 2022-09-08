@@ -1,0 +1,7 @@
+title: Masamune
+description: Replaces the Kingdom Key with Sephiroth's Masamune, a blade with ridiculously long reach.
+assets:
+- name: obj\W_EX010.mdlx #Over Kingdom Key
+  method: copy
+  source:
+  - name: obj\W_EX010.mdlx
