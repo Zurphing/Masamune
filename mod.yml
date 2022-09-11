@@ -129,5 +129,23 @@ assets:
   source:
   - name: remastered\obj\W_EX010.a.us\-0.dds
     type: internal
-    
- 
+- name: remastered\obj\W_EX010.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
+- name: remastered\obj\W_EX010_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
+- name: remastered\obj\W_EX010_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
+- name: remastered\obj\W_EX010_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
