@@ -17,3 +17,117 @@ assets:
   method: copy
   source:
   - name: obj\W_EX010.mdlx
+- name: obj\W_EX010.a.us #PAX Kingdom Key
+  platform: pc
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_NM.a.us #Over Kingdom Key
+  platform: pc
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_TR.a.us #Over Kingdom Key
+  platform: pc
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_WI.a.us #Over Kingdom Key
+  platform: pc
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010.a.fm #PAX Kingdom Key
+  platform: ps2
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_NM.a.fm #Over Kingdom Key
+  platform: ps2
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_TR.a.fm #Over Kingdom Key
+  platform: ps2
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: obj\W_EX010_WI.a.fm #Over Kingdom Key
+  platform: ps2
+  method: binarc
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: obj/sword.pax
+- name: remastered\obj\W_EX010.a.us\se\obj\se500
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\se\obj\se500
+    type: internal
+- name: remastered\obj\W_EX010_NM.a.us\se\obj\se500
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\se\obj\se500
+    type: internal
+- name: remastered\obj\W_EX010_TR.a.us\se\obj\se500
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\se\obj\se500
+    type: internal
+- name: remastered\obj\W_EX010_WI.a.us\se\obj\se500
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\se\obj\se500
+    type: internal
+- name: remastered\obj\W_EX010.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\-0.dds
+    type: internal
+- name: remastered\obj\W_EX010_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\-0.dds
+    type: internal
+- name: remastered\obj\W_EX010_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\-0.dds
+    type: internal
+- name: remastered\obj\W_EX010_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010.a.us\-0.dds
+    type: internal
+    
+ 
